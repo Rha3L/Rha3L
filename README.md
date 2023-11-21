@@ -13,6 +13,7 @@ Here are some fun projects I built in the past:
   A full stack social media app built on MERN stack. It implemented use authorisation, authentication and CRUD operations with database.
 
 Status update:
+
 🌱 I'm currently learning React testing using testing library and Jest.
 
 🫶 Feel free to check my portfolio website to read more about me and my projects: https://rhaeliang.dev
