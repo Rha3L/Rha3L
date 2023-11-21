@@ -12,7 +12,10 @@ Here are some fun projects I built in the past:
 - [SocialApp](https://github.com/Rha3L/socialapp-mern)
   A full stack social media app built on MERN stack. It implemented use authorisation, authentication and CRUD operations with database.
 
-I'm currently working on React testing library and Jest.
+Status update:
+🌱 I'm currently learning React testing using testing library and Jest.
+
+🫶 Feel free to check my portfolio website to read more about me and my projects: https://rhaeliang.dev
 <!-- 
 **Rha3L/Rha3L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
