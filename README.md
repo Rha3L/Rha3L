@@ -10,7 +10,7 @@ Here are some fun projects I built in the past:
   A pizza shop website originally written in Javascript and React. I rewrited it in Typescript to practice Typescript + React.
 
 - [SocialApp](https://github.com/Rha3L/socialapp-mern)
-  A full stack social media app built on MERN stack. It implemented use authorisation and authentication. It practiced CRUD operarions with database.
+  A full stack social media app built on MERN stack. It implemented use authorisation, authentication and CRUD operations with database.
 
 I'm currently working on React testing library and Jest.
 <!-- 
