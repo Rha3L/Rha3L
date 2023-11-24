@@ -12,9 +12,12 @@ Here are some fun projects I built in the past:
 - [SocialApp](https://github.com/Rha3L/socialapp-mern)
   A full stack social media app built on MERN stack. It implemented use authorisation, authentication and CRUD operations with database.
 
+- [CS50 Projects](https://github.com/Rha3L/CS50-projects)
+  Some interesting projects done in  CS50 course implemented using C or Python to practice algorithmatic thinking and solving problems efficiently.
+
 Status update:
 
-🤖 I'm currently taking UC Berkley CS 61B course learning dynamic data structures, data types, storage management, principles of software engineering and some basic algorithms using Java.
+🤖 I'm currently taking UC Berkley CS 61B course learning dynamic data structures, data types and basic algorithms using Java.
 
 🌱 Meanwhile I'm learning React testing using testing library and Jest via online resources.
 
