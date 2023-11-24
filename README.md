@@ -14,7 +14,9 @@ Here are some fun projects I built in the past:
 
 Status update:
 
-🌱 I'm currently learning React testing using testing library and Jest.
+🤖 I'm currently taking UC Berkley CS 61B course learning dynamic data structures, data types, storage management, principles of software engineering and some basic algorithms using Java.
+
+🌱 Meanwhile I'm learning React testing using testing library and Jest via online resources.
 
 🫶 Feel free to check my portfolio website to read more about me and my projects: https://rhaeliang.dev
 <!-- 
