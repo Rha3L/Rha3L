@@ -2,7 +2,7 @@
 
 Welcome to my GitHub account. I'm Rhae 😁
 
-I’m currently working on frontend lanuages and frameworks including Javascript, Typescript, React and Nodejs (used to build simple server to learn frontend and backend communication).
+I’m currently working on frontend lanuages and frameworks including Javascript, Typescript, React and Nodejs.
 
 Here are some fun projects I built in the past:
 
