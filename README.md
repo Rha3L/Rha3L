@@ -7,13 +7,13 @@ I’m currently working on frontend lanuages and frameworks including Javascript
 Here are some fun projects I built in the past:
 
 - [Pizzeria Hub](https://github.com/Rha3L/pizzeriahub-ts)
-  A pizza shop website originally written in Javascript and React. I rewrited it in Typescript to practice Typescript + React.
+  A pizza shop website originally written in Javascript and React. It implemented Redux Toolkit for state management. I rewrited it in Typescript to practice Typescript + React.
 
 - [SocialApp](https://github.com/Rha3L/socialapp-mern)
-  A full stack social media app built on MERN stack. It implemented use authorisation, authentication and CRUD operations with database.
+  A full stack social media app built on MERN stack (MongoDB + ExpressJS + React + NodeJS). It implemented user authorisation and authentication via JWT. It practiced CRUD operations with MongoDB.
 
 - [CS50 Projects](https://github.com/Rha3L/CS50-projects)
-  Some interesting projects done in  CS50 course implemented using C or Python to practice algorithmatic thinking and solving problems efficiently.
+  Some interesting projects done in  CS50 course implemented using C or Python to practice algorithmatic thinking and effecient problem-solving.
 
 Status update:
 
