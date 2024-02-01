@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub account. I'm Rhae 😁
+Welcome to my GitHub. I'm Rhae 😁
 
 I’m currently working on frontend lanuages and frameworks including Javascript, Typescript, React and Nodejs.
 
