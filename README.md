@@ -17,7 +17,7 @@ Here are some fun projects I built in the past:
 
 Status update:
 
-🌱 I'm currently studying algorithms and data structures, as well as React testing via React testing library and Jest.
+🌱 I'm currently studying algorithms and data structures, as well as C#.
 
 🫶 Feel free to check my portfolio website to read more about me and my projects: https://rhaeliang.dev
 <!-- 
