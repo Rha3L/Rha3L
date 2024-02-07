@@ -9,7 +9,7 @@ Here are some fun projects I built in the past:
 - [Pizzeria Hub](https://github.com/Rha3L/pizzeriahub-ts)
   A pizza shop website originally written in Javascript and React. It implemented Redux Toolkit for state management. I rewrited it in Typescript to practice Typescript + React.
 
-- [SocialApp](https://github.com/Rha3L/socialapp-mern)
+- [Dribbling](https://github.com/Rha3L/dribbling-mern)
   A full stack social media app built on MERN stack (MongoDB + ExpressJS + React + NodeJS). It implemented user authorisation and authentication via JWT. It practiced CRUD operations with MongoDB.
 
 - [CS50 Projects](https://github.com/Rha3L/CS50-projects)
