@@ -6,7 +6,7 @@ I’m currently working on frontend lanuages and frameworks including Javascript
 
 Here are some fun projects I built in the past:
 
-- [Pizzeria Hub](https://github.com/Rha3L/pizzeriahub-ts)
+- [PizzaHub](https://github.com/Rha3L/pizzahub-ts)
   A pizza shop website originally written in Javascript and React. It implemented Redux Toolkit for state management. I rewrited it in Typescript to practice Typescript + React.
 
 - [Dribbling](https://github.com/Rha3L/dribbling-mern)
