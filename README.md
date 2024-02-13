@@ -17,7 +17,7 @@ Here are some fun projects I built in the past:
 
 Status update:
 
-🌱 I'm currently studying algorithms and data structures, as well as C#.
+🌱 I'm currently studying C# .Net expanding full stack skills.
 
 🫶 Feel free to check my portfolio website to read more about me and my projects: https://rhaeliang.dev
 <!-- 
