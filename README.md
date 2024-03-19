@@ -15,9 +15,17 @@ Here are some fun projects I built in the past:
 - [CS50 Projects](https://github.com/Rha3L/CS50-projects)
   Some interesting projects done in  CS50 course implemented using C or Python to practice algorithmatic thinking and effecient problem-solving.
 
+Currently working in progress projects:
+
+- [Soccerums](https://github.com/Rha3L/soccerums)
+  A full stack forums built with Typescript, Node.js, GraphQL, PostgreSQL
+
+- [Resume Manager](https://github.com/Rha3L/ResumeManager)
+  Practice React, Typescript with ASP.NET Core 7 web API and entity framework core
+  
 Status update:
 
-🌱 I'm currently studying C# .Net expanding full stack skills.
+🌱 I'm currently studying C# ASP.NET Core expanding full stack skills.
 
 🫶 Feel free to check my portfolio website to read more about me and my projects: https://rhaeliang.dev
 <!-- 
