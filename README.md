@@ -2,15 +2,15 @@
 
 Welcome to my GitHub. I'm Rhae 😁
 
-I’m currently working on frontend lanuages and frameworks including Javascript, Typescript, React and Nodejs.
+I’m currently working on projects implemented by frontend lanuages and frameworks including Javascript, Typescript, React and backend framework of Nodejs.
 
 Here are some fun projects I built in the past:
 
 - [PizzaHub](https://github.com/Rha3L/pizzahub-ts)
-  A pizza shop website originally written in Javascript and React. It implemented Redux Toolkit for state management. I rewrited it in Typescript to practice Typescript + React.
+  A pizza shop website built with Typescript and React. It implemented Redux Toolkit for state management. 
 
 - [Dribbling](https://github.com/Rha3L/dribbling-mern)
-  A full stack social media app built on MERN stack (MongoDB + ExpressJS + React + NodeJS). It implemented user authorisation and authentication via JWT. It practiced CRUD operations with MongoDB.
+  A full stack social media app built on MERN stack (MongoDB + ExpressJS + React + NodeJS). It implemented user authorisation and authentication via JWT. It practiced CRUD operations with MongoDB and REST APIs.
 
 - [CS50 Projects](https://github.com/Rha3L/CS50-projects)
   Some interesting projects done in  CS50 course implemented using C or Python to practice algorithmatic thinking and effecient problem-solving.
@@ -18,7 +18,7 @@ Here are some fun projects I built in the past:
 Currently working in progress projects:
 
 - [Soccerums](https://github.com/Rha3L/soccerums)
-  A full stack forums built with Typescript, Node.js, GraphQL, PostgreSQL
+  A full stack forums built with Typescript, React, Node.js, GraphQL, PostgreSQL
 
 - [Resume Manager](https://github.com/Rha3L/ResumeManager)
   Practice React, Typescript with ASP.NET Core 7 web API and entity framework core
