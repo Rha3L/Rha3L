@@ -12,16 +12,15 @@ Here are some fun projects I built in the past:
 - [Dribbling](https://github.com/Rha3L/dribbling-mern)
   A full stack social media app built on MERN stack (MongoDB + ExpressJS + React + NodeJS). It implemented user authorisation and authentication via JWT. It practiced CRUD operations with MongoDB and REST APIs.
 
-- [CS50 Projects](https://github.com/Rha3L/CS50-projects)
-  Some interesting projects done in  CS50 course implemented using C or Python to practice algorithmatic thinking and effecient problem-solving.
-
-Currently working in progress projects:
+- [Resume Manager](https://github.com/Rha3L/ResumeManager)
+  A full stack resume manager and job application tracker built on Typescript, React, ASP.NET Core 8 web API, Entity framework and MS SQL
 
 - [Soccerums](https://github.com/Rha3L/soccerums)
   A full stack forums built with Typescript, React, Node.js, GraphQL, PostgreSQL
 
-- [Resume Manager](https://github.com/Rha3L/ResumeManager)
-  Practice React, Typescript with ASP.NET Core 7 web API and entity framework core
+- [CS50 Projects](https://github.com/Rha3L/CS50-projects)
+  Some interesting projects done in  CS50 course implemented using C or Python to practice algorithmatic thinking and effecient problem-solving.
+
   
 Status update:
 
