@@ -4,7 +4,7 @@ Welcome to my GitHub. I'm Rhae 😁
 
 I’m currently working on projects implemented by frontend lanuages and frameworks including Javascript, Typescript, React and backend framework of Nodejs.
 
-Here are some fun projects I built in the past:
+Here are some my fun projects:
 
 - [PizzaHub](https://github.com/Rha3L/pizzahub-ts)
   A pizza shop website built with Typescript and React. It implemented Redux Toolkit for state management. 
