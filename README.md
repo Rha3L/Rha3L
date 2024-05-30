@@ -6,14 +6,14 @@ I’m currently working on projects implemented by frontend lanuages and framewo
 
 Here are some my fun projects:
 
+- [Invoice Manager](https://github.com/Rha3L/InvoiceManager)
+  A full stack invoice manager built on Typescript, React, ASP.NET Core 8 web API, Entity framework and MS SQL
+
 - [PizzaHub](https://github.com/Rha3L/pizzahub-ts)
-  A pizza shop website built with Typescript and React. It implemented Redux Toolkit for state management. 
+  A pizza shop web app built with Typescript and React. It implemented Redux Toolkit for state management. 
 
 - [Dribbling](https://github.com/Rha3L/dribbling-mern)
   A full stack social media app built on MERN stack (MongoDB + ExpressJS + React + NodeJS). It implemented user authorisation and authentication via JWT. It practiced CRUD operations with MongoDB and REST APIs.
-
-- [Resume Manager](https://github.com/Rha3L/ResumeManager)
-  A full stack resume manager and job application tracker built on Typescript, React, ASP.NET Core 8 web API, Entity framework and MS SQL
 
 - [Soccerums](https://github.com/Rha3L/soccerums)
   A full stack forums built with Typescript, React, Node.js, GraphQL, PostgreSQL
