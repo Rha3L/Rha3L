@@ -6,7 +6,7 @@ I’m currently working on projects implemented by frontend lanuages and framewo
 
 Here are some my fun projects:
 
-- [Invoice Manager](https://github.com/Rha3L/InvoiceManager)
+- [InvoiceManager](https://github.com/Rha3L/InvoiceManager)
   A full stack invoice manager built on Typescript, React, ASP.NET Core 8 web API, Entity framework and MS SQL
 
 - [PizzaHub](https://github.com/Rha3L/pizzahub-ts)
